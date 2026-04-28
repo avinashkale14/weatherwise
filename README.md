@@ -31,7 +31,7 @@ A clean and responsive weather application that provides real-time weather data,
 
 ---
 
-## 📸 Screenshot
+## 📸 Preview
 ![WeatherWise App](output.png)
 
 ---
@@ -41,7 +41,7 @@ A clean and responsive weather application that provides real-time weather data,
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weatherwise.git
+git clone https://github.com/avinashkale14/weatherwise.git
 ```
 
 2. Open the project:
@@ -53,6 +53,9 @@ cd weatherwise
 3. Run using Live Server in VS Code
 
 ---
+
+## 🔑 API Used
+- OpenWeather API 
 
 
 ## 📌 Future Improvements
