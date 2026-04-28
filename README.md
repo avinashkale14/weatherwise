@@ -6,7 +6,7 @@ A clean and responsive weather application that provides real-time weather data,
 
 ## 🚀 Live Demo
 
-🔗 https://your-netlify-link.netlify.app
+🔗 https://weatherwise-ak.vercel.app/
 
 ---
 
