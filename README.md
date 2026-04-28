@@ -57,6 +57,7 @@ cd weatherwise
 ## 🔑 API Used
 - OpenWeather API 
 
+---
 
 ## 📌 Future Improvements
 
